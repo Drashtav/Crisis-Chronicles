@@ -18,7 +18,7 @@
     <section class="container">
         <img src="Title.pdf" alt="Crisis Chronicles eBook Cover" class="ebook-cover">
         <p>This eBook delves into the captivating tales of crises from various perspectives. Explore the chronicles of adversity and resilience throughout history and the present.</p>
-        <a href="CrisisChronicles.pdf" class="download-button">Download eBook</a>
+        <a href="Title.pdf" class="download-button">Download eBook</a>
     </section>
 
     <footer>
