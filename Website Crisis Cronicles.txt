@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crisis Chronicles eBook</title>
+    <style>
+        /* Add your custom styles here */
+        /* ... */
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Crisis Chronicles eBook</h1>
+    </header>
+
+    <section class="container">
+        <img src="Title.pdf" alt="Crisis Chronicles eBook Cover" class="ebook-cover">
+        <p>This eBook delves into the captivating tales of crises from various perspectives. Explore the chronicles of adversity and resilience throughout history and the present.</p>
+        <a href="CrisisChronicles.pdf" class="download-button">Download eBook</a>
+    </section>
+
+    <footer>
+        &copy; 2023 Crisis Chronicles eBook
+    </footer>
+
+</body>
+</html>
+
+
+    <header>
+        <h1>Disaster Awareness Hub</h1>
+    </header>
+
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">Articles</a>
+        <a href="#">Resources</a>
+        <a href="#">Contact</a>
+    </nav>
+
+    <section>
+        <h2>Latest Updates</h2>
+        <p>Stay informed about disaster preparedness and recovery efforts.</p>
+        <!-- Add more content as needed -->
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Disaster Awareness Hub. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
